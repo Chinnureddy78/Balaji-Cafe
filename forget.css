@@ -1,0 +1,11 @@
+body{
+    background-image: url(bg5.jpg);
+    background-repeat: no-repeat;
+    background-size: 1950px 960px;
+}
+form{
+    border: solid 0px white;
+    width: 500px;
+    
+    margin-left: 800px;
+}

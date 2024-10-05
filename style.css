@@ -1,0 +1,30 @@
+.obox{
+    border: solid 1px;
+    height: 910px;
+    background-image: url(bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: 1950px 910px;
+}
+#cafe{
+    color: black;
+    font-size: 100px;
+    text-align: center;
+    padding-top: 130px;
+}
+#REGISTER,#LOGIN{
+    width: 300px;
+    height: 50px;
+    background-color: burlywood;
+}
+#REGISTER{
+    margin-left: 650px;
+}
+#REGISTER a,#LOGIN a{
+    color: black;
+    font-size: 30px;
+    text-decoration: none;
+    font-weight: bold;
+}
+#REGISTER:hover,#LOGIN:hover{
+    background-color: lightyellow;
+}

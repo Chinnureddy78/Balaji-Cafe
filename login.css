@@ -1,0 +1,37 @@
+body{
+    background-image: url(bg33.jpg);
+    background-repeat: no-repeat;
+    background-size: 1950px 960px;
+}
+form{
+    border: solid 0px white;
+    width: 500px;
+    
+    margin-left: 800px;
+}
+h1{
+    text-align: center;
+    color: green;
+}
+label{
+    font-size: 20px;
+    color: yellowgreen;
+    font-weight: bold;
+}
+input{
+    width: 300px;
+    height: 25px;
+    margin-bottom: 10px;
+}
+button{
+    height: 50px;
+    width: 150px;
+    background-color: azure;
+    color: red;
+    font-size: 21px;
+    border-radius: 10px;
+}
+p{
+    color: black;
+    font-size: 20px;
+}
